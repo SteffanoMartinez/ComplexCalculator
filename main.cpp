@@ -67,8 +67,8 @@ void RtoP_function()
   cin >> imag_part;
   angle = RtoP_angle(real_part,imag_part);
   magnitude = RtoP_mag(real_part,imag_part);
-  cout << "Hello World!, this is the magnitude: " << fixed <<     setprecision(2) << magnitude << "\n";
-  cout << "And this is the angle : " << angle << " degrees." << "\n";
+  cout << "This is the magnitude: " << fixed <<     setprecision(2) << magnitude << "\n";
+  cout << "This is the angle : " << angle << " degrees." << "\n";
 }
 
 //Function to request polar to rectangular conversion.
