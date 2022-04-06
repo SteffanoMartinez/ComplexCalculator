@@ -1,6 +1,7 @@
 // Author : Steffano Martinez
 // Florida Altantic University 2022 - Circuits 1 
 // Enjoy!
+// Version 1.0
 
 #include <iostream> //cin and cout
 #include <cmath> //math stuff
